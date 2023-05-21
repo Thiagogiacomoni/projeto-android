@@ -1,3 +1,3 @@
 # projeto-android
-Projeto Android criado no capitulo 17 do cursoemvideo
+Primeiro projeto com HTML/CSS
 https://thiagogiacomoni.github.io/projeto-android/
